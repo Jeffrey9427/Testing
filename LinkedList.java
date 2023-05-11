@@ -14,6 +14,7 @@ public class LinkedList {
         System.out.println("(8) Exit");
         System.out.println("******************************");
         System.out.print("Choose a command: ");
+        asdfasdfk aksdksafkd
     }
 
     //Creating a course node
@@ -40,6 +41,7 @@ public class LinkedList {
             this.coursePrevious = null;
             this.courseNext = null;
         }
+        /a/sdfkasdk
 
         private static class Student {
             private String studentName;
@@ -54,6 +56,7 @@ public class LinkedList {
                 this.studentNext = null;
             }
         }
+        ///asdfasdf
     }
 
     private static Course head, tail = null;
@@ -90,6 +93,7 @@ public class LinkedList {
         }
 
         System.out.println("\n✅The course has been successfully added");
+        //a/sdfasdf
     }
 
     /**********************
